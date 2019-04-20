@@ -223,7 +223,7 @@ img.spv {
   -webkit-font-smoothing: antialiased;
   font-style: italic;
   letter-spacing: 0.5px;
-  background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/intro_ico_skip.png") no-repeat right 3px;
+  background: url("../images/intro_ico_skip.png") no-repeat right 3px;
   padding: 0 15px 0 0;
 }
 
@@ -371,7 +371,7 @@ img.spv {
   height: 839px;
 }
 #intro-box-megumi .intro-box-text {
-  background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/intro_megumi_text.png") no-repeat 0 0;
+  background: url("../images/intro_megumi_text.png") no-repeat 0 0;
   position: absolute;
   left: 721px;
   top: 215px;
@@ -529,28 +529,28 @@ img.spv {
 }
 
 .first-bg {
-  background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_bg_l.jpg") no-repeat center;
+  background: url("../images/main_bg_l.jpg") no-repeat center;
   background-size: cover;
 }
 
 .first-megumi-back {
-  background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_megumi_back_l.png") no-repeat center;
+  background: url("../images/main_megumi_back_l.png") no-repeat center;
   background-size: cover;
 }
 
 .first-megumi-front {
-  background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_megumi_front_l.png") no-repeat center;
+  background: url("../images/main_megumi_front_l.png") no-repeat center;
   background-size: cover;
 }
 
 .first-flare01 {
-  background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_flare01.png") repeat-x center;
+  background: url("../images/main_flare01.png") repeat-x center;
   background-size: cover;
   z-index: 10;
 }
 
 .first-flare02 {
-  background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_flare02.png") repeat-x center;
+  background: url("../images/main_flare02.png") repeat-x center;
   background-size: cover;
   z-index: 10;
 }
@@ -579,19 +579,19 @@ img.spv {
 }
 
 .sakura-front-l {
-  background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_sakura_front_l.png") no-repeat center;
+  background: url("../images/main_sakura_front_l.png") no-repeat center;
   background-size: cover;
   z-index: 3;
 }
 
 .sakura-front-m {
-  background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_sakura_front_m.png") no-repeat center;
+  background: url("../images/main_sakura_front_m.png") no-repeat center;
   background-size: cover;
   z-index: 2;
 }
 
 .sakura-front-s {
-  background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_sakura_front_s.png") no-repeat center;
+  background: url("../images/main_sakura_front_s.png") no-repeat center;
   background-size: cover;
   z-index: 1;
 }
@@ -617,17 +617,17 @@ img.spv {
 }
 
 .sakura-back-l {
-  background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_sakura_back_l.png") no-repeat center;
+  background: url("../images/main_sakura_back_l.png") no-repeat center;
   z-index: 3;
 }
 
 .sakura-back-m {
-  background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_sakura_back_m.png") no-repeat center;
+  background: url("../images/main_sakura_back_m.png") no-repeat center;
   z-index: 2;
 }
 
 .sakura-back-s {
-  background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_sakura_back_s.png") no-repeat center;
+  background: url("../images/main_sakura_back_s.png") no-repeat center;
   z-index: 1;
 }
 
@@ -1605,7 +1605,7 @@ img.spv {
 
 .first-text {
   background: none !important;
-  background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/intro_megumi_text.png") no-repeat 0 0;
+  background: url("../images/intro_megumi_text.png") no-repeat 0 0;
   width: 267px;
   height: 297px;
   position: absolute;
@@ -1613,7 +1613,7 @@ img.spv {
   top: 215px;
 }
 .first-text span {
-  background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/intro_megumi_text.png") no-repeat 0 0;
+  background: url("../images/intro_megumi_text.png") no-repeat 0 0;
   position: absolute;
   z-index: 0;
   box-sizing: border-box;
@@ -1867,7 +1867,7 @@ img.spv {
     font-size: 4.0625vw;
     -webkit-font-smoothing: antialiased;
     font-style: italic;
-    background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/intro_ico_skip_sp.png") no-repeat right 3px;
+    background: url("../images/intro_ico_skip_sp.png") no-repeat right 3px;
     background-position: right 0.78125vw;
     background-size: 8px auto;
     background-size: 2.5vw auto;
@@ -2122,28 +2122,28 @@ img.spv {
   }
 
   .first-bg {
-    background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_bg_sp.jpg") no-repeat center;
+    background: url("../images/main_bg_sp.jpg") no-repeat center;
     background-size: 100% auto;
   }
 
   .first-megumi-back {
-    background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_megumi_back_sp.png") no-repeat center;
+    background: url("../images/main_megumi_back_sp.png") no-repeat center;
     background-size: 100% auto;
   }
 
   .first-megumi-front {
-    background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_megumi_front_sp.png") no-repeat center;
+    background: url("../images/main_megumi_front_sp.png") no-repeat center;
     background-size: 100% auto;
   }
 
   .first-flare01 {
-    background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_flare01_sp.png") repeat-x center;
+    background: url("../images/main_flare01_sp.png") repeat-x center;
     background-size: 100% auto;
     z-index: 10;
   }
 
   .first-flare02 {
-    background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_flare02_sp.png") repeat-x center;
+    background: url("../images/main_flare02_sp.png") repeat-x center;
     background-size: 100% auto;
     z-index: 10;
   }
@@ -2175,7 +2175,7 @@ img.spv {
   }
 
   .first-text {
-    background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/intro_megumi_text_sp.png") no-repeat 0 0 !important;
+    background: url("../images/intro_megumi_text_sp.png") no-repeat 0 0 !important;
     background-size: 100% auto !important;
     pointer-events: none;
     width: 195px;
@@ -2198,7 +2198,7 @@ img.spv {
    * ------------------- */
   .sakura-front {
     position: absolute;
-    background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_sakura_front_sp.png") no-repeat center;
+    background: url("../images/main_sakura_front_sp.png") no-repeat center;
     background-size: 100% auto;
     display: none;
   }
@@ -2210,7 +2210,7 @@ img.spv {
 
   .sakura-back {
     position: absolute;
-    background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_sakura_back_sp.png") no-repeat center 0;
+    background: url("../images/main_sakura_back_sp.png") no-repeat center 0;
     background-size: 100% auto;
     width: 100%;
     height: 100%;
@@ -2238,7 +2238,7 @@ img.spv {
    * ムービー
    * ------------------- */
   .l-movie {
-    background: url("http://mjcytop.oss-cn-shenzhen.aliyuncs.com/ecydh/main_movie_ss_sp.png") no-repeat center;
+    background: url("../images/main_movie_ss_sp.png") no-repeat center;
     background-size: cover;
     width: 100%;
     height: 180px;
