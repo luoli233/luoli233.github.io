@@ -1,2 +1,1 @@
-# luoli233
-.github.io
+# luoli233.github.io
